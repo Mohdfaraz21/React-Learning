@@ -1,0 +1,18 @@
+
+import Chai from "./chai"
+function App() {
+
+  const username = "chai aur code"
+
+  return (
+    <>
+    <Chai/>
+    <h1>Chai aur react {username}</h1>
+    <p>test hai</p>
+    
+    </>
+  )
+}
+
+export default App
+ //? evaluated exppresion hai ye username in curly braces
