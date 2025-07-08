@@ -55,8 +55,8 @@ const App = () => {
 
 export default App;
 
-/* the bad this is that in context Api is it render all the component unnecesary where we need to render all the component.
- that unnecesary render leads to slow our app.
+/* the bad thing is that in context Api is it render all the component unnecessary where we need not to render all the component.
+ that unnecessary render leads to slow our app.
 that why we use state management library 
 shift + alt + a
 */
